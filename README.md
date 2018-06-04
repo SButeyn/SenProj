@@ -1,2 +1,2 @@
-# SenProj
-My portions of the senior project I worked on, thus being incomplete
+# Alpha_Build
+What do you think
